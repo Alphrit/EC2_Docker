@@ -25,7 +25,7 @@
 프로젝트 루트 디렉토리에서 아래 명령어를 입력하여 백그라운드에서 Docker 이미지를 빌드하고 컨테이너를 실행합니다.
 ```bash
 cd EC2_Docker
-sudo docker compose up -d --build
+sudo docker-compose up -d --build
 ```
 **접속 확인**: 실행이 완료되면 브라우저를 열고 http://34.237.195.172/courses 주소(포트 80)로 접근하여 서비스가 열리는지 확인합니다.
 
