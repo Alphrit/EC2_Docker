@@ -1,0 +1,236 @@
+[
+  {
+    "course_name": "프로그래밍기초",
+    "year": "2021",
+    "semester": "1",
+    "grade": "A0"
+  },
+  {
+    "course_name": "통계학개론",
+    "year": "2021",
+    "semester": "1",
+    "grade": "B0"
+  },
+  {
+    "course_name": "전공미리보기(OT학기제)",
+    "year": "2021",
+    "semester": "1",
+    "grade": "P"
+  },
+  {
+    "course_name": "창의설계입문",
+    "year": "2021",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "대학수학및연습1",
+    "year": "2021",
+    "semester": "1",
+    "grade": "C0"
+  },
+  {
+    "course_name": "융합적사고와글쓰기",
+    "year": "2021",
+    "semester": "1",
+    "grade": "C+"
+  },
+  {
+    "course_name": "한국의문화유산",
+    "year": "2021",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "미리가보는대학",
+    "year": "2021",
+    "semester": "하계",
+    "grade": "P"
+  },
+  {
+    "course_name": "컴퓨팅사고",
+    "year": "2021",
+    "semester": "하계",
+    "grade": "B+"
+  },
+  {
+    "course_name": "그래픽디자인",
+    "year": "2021",
+    "semester": "2",
+    "grade": "A0"
+  },
+  {
+    "course_name": "고급C프로그래밍",
+    "year": "2021",
+    "semester": "2",
+    "grade": "A0"
+  },
+  {
+    "course_name": "대학수학및연습2",
+    "year": "2021",
+    "semester": "2",
+    "grade": "D+"
+  },
+  {
+    "course_name": "대학영어",
+    "year": "2021",
+    "semester": "2",
+    "grade": "B+"
+  },
+  {
+    "course_name": "광운인되기",
+    "year": "2021",
+    "semester": "2",
+    "grade": "P"
+  },
+  {
+    "course_name": "유럽의과거와현재",
+    "year": "2021",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "로봇명사와의만남",
+    "year": "2024",
+    "semester": "1",
+    "grade": "P"
+  },
+  {
+    "course_name": "지능형로봇의이해",
+    "year": "2024",
+    "semester": "1",
+    "grade": "P"
+  },
+  {
+    "course_name": "기계학습",
+    "year": "2024",
+    "semester": "1",
+    "grade": "C+"
+  },
+  {
+    "course_name": "컴퓨터그래픽스",
+    "year": "2024",
+    "semester": "1",
+    "grade": "A+"
+  },
+  {
+    "course_name": "선형대수학",
+    "year": "2024",
+    "semester": "1",
+    "grade": "C+"
+  },
+  {
+    "course_name": "판타지장르와미래학",
+    "year": "2024",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "자바프로그래밍",
+    "year": "2024",
+    "semester": "1",
+    "grade": "C+"
+  },
+  {
+    "course_name": "비주얼컴퓨팅",
+    "year": "2024",
+    "semester": "2",
+    "grade": "B+"
+  },
+  {
+    "course_name": "데이터베이스",
+    "year": "2024",
+    "semester": "2",
+    "grade": "B+"
+  },
+  {
+    "course_name": "자료구조",
+    "year": "2024",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "파이썬프로그래밍기초",
+    "year": "2024",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "객체지향프로그래밍",
+    "year": "2025",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "AI수학",
+    "year": "2025",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "컴퓨터네트워크",
+    "year": "2025",
+    "semester": "1",
+    "grade": "C+"
+  },
+  {
+    "course_name": "한국근현대사",
+    "year": "2025",
+    "semester": "1",
+    "grade": "B0"
+  },
+  {
+    "course_name": "상상공학과표현",
+    "year": "2025",
+    "semester": "1",
+    "grade": "C+"
+  },
+  {
+    "course_name": "생활속의경제",
+    "year": "2025",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "HCI와UX평가",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "가상현실",
+    "year": "2025",
+    "semester": "2",
+    "grade": "B+"
+  },
+  {
+    "course_name": "웹서비스설계및실습",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "모바일프로그래밍",
+    "year": "2025",
+    "semester": "2",
+    "grade": "A0"
+  },
+  {
+    "course_name": "실감미디어의이해",
+    "year": "2025",
+    "semester": "2",
+    "grade": "B+"
+  },
+  {
+    "course_name": "오픈소스소프트웨어실습",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
+  },
+  {
+    "course_name": "오픈소스소프트웨어실습",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
+  }
+]
